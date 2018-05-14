@@ -1,1 +1,1 @@
-# termsandconditionsarchive
+This archive contains old versions of the public terms and policies for the Shapeways web services.  While every effort has been made to maintain the accuracy of this archive, it is provided without warranty or guarantee.  If you have specific questions about old versions of terms, please contact legal@shapeways.com.
